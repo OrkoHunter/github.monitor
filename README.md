@@ -22,12 +22,26 @@ I created it for two of my personal reasons :
 
 ## Table of Contents
 
+* [Installation](#installation)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
   * [npm test](#npm-test)
   * [npm run ios](#npm-run-ios)
   * [npm run android](#npm-run-android)
   * [npm run eject](#npm-run-eject)
+
+## Installation
+
+If you trust me enough, install it using the APK I've genereated for the Android people : https://exp-shell-app-assets.s3-us-west-1.amazonaws.com/android%2F%40himanshumishra%2Fgithub-monitor-14d9387f-5f68-11e7-a73f-0a580a781a13-signed.apk
+
+If you do not, or you're crazy to be using an IPhone, this is for you :
+
+1. (Fork) Clone this repository, run `npm install` (Btw. there's something called [pnpm](https://github.com/pnpm/pnpm) in town, check it out)
+2. Install the expo app on your phone
+3. Start the packager with `npm start`
+4. Read whatever gets printed on the console (and follow of course)
+5. Once you are done with scanning (and maybe resizing your terminal), shake your phone to get a developer options menu. Click on 'Debug JS Remotely' and a browser tab will open on your computer.
+6. Check out the console of the tab and debug away !
 
 ## Available Scripts
 

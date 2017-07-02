@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "GitHub Monitor",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "16.0.0",
+    "slug": "github-monitor",
+    "ios": {
+      "bundleIdentifier": "net.orkohunter.github.monitor"
+    },
+    "android": {
+      "package": "net.orkohunter.github.monitor"
+    }
+  }
+}

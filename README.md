@@ -1,4 +1,3 @@
-<h1 align="center"><img src="assets/icon.png"></h1>
 <div align="center" style="display: 'flex'; justify-content: 'space-between">
   <img src="assets/frame1.png" height="500px">
   <img src="assets/frame2.png" height="500px">
@@ -68,3 +67,5 @@ This will start the process of "ejecting" from Create React Native App's build s
 ## Contribute
 
 I suck at Javascript. And this has to be my first phone app. Please report issues or suggest new features (no matter how small) and I swear by you, I'll try to make it. (Or convince someone else to do it instead.)
+<h1 align="center"><img src="assets/icon.png"></h1>
+
